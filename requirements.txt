@@ -50,7 +50,7 @@ pandas==0.25.1
 paypalrestsdk==1.13.1
 pep8==1.7.1
 pif==0.8.2
-Pillow==6.1.0
+Pillow==6.2.0
 plotly==4.1.1
 psycopg2==2.8.3
 pycodestyle==2.5.0
