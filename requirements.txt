@@ -30,7 +30,7 @@ django-storages==1.7.2
 django-tinymce==2.7.0
 django-toolbelt==0.0.1
 django-widget-tweaks==1.4.2
-djangorestframework==3.4.0
+djangorestframework==3.9.1
 docutils==0.15.2
 easy-thumbnails==2.6
 feedparser==5.2.1
